@@ -13,56 +13,18 @@ body {
     background-color: #2a607c;
 }
 
-.header,
-.footer {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-}
-
-.header,
-a,
-.benefit-lead,
-.benefit-brand,
-.benefit-cost,
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
-    color: #ffffff;
-}
-
 .header h1 {
     font-size: 48px;
-}
-
-.header h1,
-.header div ul li,
-.content {
-    display: inline-block;
-
 }
 
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-.header div,
-.benefits,
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
-}
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-size: 20px;
-}
-
-.header div,
-.footer h2 {
     font-size: 20px;
 }
 
@@ -74,12 +36,46 @@ a,
     margin-left: 25px;
 }
 
-a {
-    text-decoration: none;
+.header,
+a,
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing,
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
+    color: #ffffff;
 }
 
-p {
-    font-size: 16px;
+.header h1,
+.header div ul li,
+.content {
+    display: inline-block;
+
+}
+
+.header div,
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing,
+.benefits {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.header,
+.footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.header div,
+.footer h2 {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
 }
 
 .hero {
@@ -89,6 +85,33 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+.content {
+    width: 75%;
+    margin-left: 20px;
+}
+
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+}
+
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .float-left {
@@ -101,10 +124,10 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    margin-left: 20px;
+p {
+    font-size: 16px;
 }
+
 
 .benefits {
     margin-right: 20px;
@@ -135,28 +158,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-}
-
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
