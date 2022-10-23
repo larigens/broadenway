@@ -9,7 +9,7 @@ This project was created to improve the code base of the BroadenWay website to e
 You can access broadway's website by clicking on the link below:
 
 ```
-
+https://larigens.github.io/broadenway/
 ```
 
 ## Usage
