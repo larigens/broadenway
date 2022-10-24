@@ -9,7 +9,7 @@ This project was created to improve the code base of the BroadenWay website to e
 You can access broadway's website by clicking on the link below:
 
 ```
-
+https://larigens.github.io/broadenway/
 ```
 
 ## Usage
@@ -18,7 +18,9 @@ For a complete experience, use the links located in the navigation bar to guide 
 
 The following image shows the web application's appearance and functionality:
 
-![alt text](assets/images/screenshot.png)
+![screenshot of the webpage](assets/images/screenshot.png)
+![screenshot of the webpage](assets/images/screenshot2.png)
+![screenshot of the webpage](assets/images/screenshot3.png)
 
 ## Credits
 
