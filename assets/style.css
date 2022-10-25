@@ -43,14 +43,13 @@ nav a {
 
 header,
 a,
-article,
-aside {
+article {
     color: #ffffff;
 }
 
 h1,
 a,
-.content-section {
+article {
     display: inline-block;
 }
 
@@ -66,28 +65,38 @@ figure img {
     margin-bottom: 25px;
 }
 
-/* Reduces the width to make room for the sidebar */
-.content-section {
-    width: 75%;
-    margin-left: 20px;
+/* Added the relative position so it can adjust itself to fit the sidebar */
+article {
+    position: relative;
 }
 
-/* Added margin-bottom to separate the articles */
-article {
+/* Hides the section's heading */
+.hidden {
+    display: none;
+}
+
+/* Added margin-bottom to separate the articles and reduced the width to make room for the sidebar */
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
+    width: 75%;
+    margin-left: 20px;
 }
 
 /* Places a max height to ensure the image it is within the section */
-article img {
+section img {
     max-height: 200px;
 }
 
-article h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+p {
+    font-size: 16px;
 }
 
 /* The images in the article with this class are moved to the left side */
@@ -102,23 +111,15 @@ article h2 {
     margin-left: 25px;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* Positions the sidebar to the right of the web page */
-.benefits-section {
+aside {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
     margin-right: 20px;
     padding: 20px;
-    float: right;
-    /* Left the remaining 5% of the total width to create a space between the sections. */
-    width: 20%;
     background-color: #2589bd;
-}
-
-/* Creates a space between the aside elements */
-aside {
-    margin-bottom: 32px;
 }
 
 aside h3 {
@@ -131,6 +132,11 @@ aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/* Creates a space between the aside elements */
+aside p {
+    margin-bottom: 32px;
 }
 
 footer {

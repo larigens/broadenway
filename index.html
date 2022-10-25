@@ -4,6 +4,7 @@
 <html lang="en-us">
 
 <!-- Machine-readable information about accessibility, search engines, and performance -->
+
 <head>
     <!-- To add the special characters directly into HTML without their HTML codes (entities) -->
     <meta charset="UTF-8" />
@@ -19,13 +20,14 @@
 </head>
 
 <!-- Contains the content that is shown to the user -->
+
 <body>
 
     <header>
         <!-- Span added for styling purpose -->
         <h1>Broad<span class="en">en</span>Way</h1>
         <nav>
-            <!--The href attribute creates a link to the article ids using the "#" -->
+            <!--The href attribute creates a link to the section ids using the "#" -->
             <a href="#search-engine-optimization">Search Engine Optimization</a>
             <a href="#online-reputation-management">Online Reputation Management</a>
             <a href="#social-media-marketing">Social Media Marketing</a>
@@ -33,13 +35,19 @@
     </header>
 
     <main>
+
         <figure>
             <!-- Keep the descriptive alt attributes in case the image cannot be displayed by the user and also to improve search engine rankings -->
             <img src="./assets/images/digital-marketing-meeting.jpg" alt="group working together" />
         </figure>
-        <section class="content-section">
-            <!-- The id attribute was added to link the nav to the article -->
-            <article id="search-engine-optimization">
+
+        <article>
+            <!-- Each article should include a heading to identify it and is useful for assistive technology users.
+                 The class attribute was added to not affect the visual output  -->
+            <h2 class="hidden">Description of services offered by BroadenWay</h2>
+
+            <!-- The id attribute has been added to link the nav to its related section -->
+            <section id="search-engine-optimization">
                 <!-- The class attribute was added for positioning -->
                 <img src="./assets/images/search-engine-optimization.jpg" class="float-left"
                     alt="a laptop, coffee, magnifying glass, pens and notebook on a wooden table" />
@@ -49,8 +57,9 @@
                     travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase
                     your visibility and find the right customers for your business.
                 </p>
-            </article>
-            <article id="online-reputation-management">
+            </section>
+
+            <section id="online-reputation-management">
                 <img src="./assets/images/online-reputation-management.jpg" class="float-right"
                     alt="a person holding a smartphone and typing on a laptop" />
                 <h2>Online Reputation Management</h2>
@@ -60,8 +69,9 @@
                     gives
                     you the control over what potential customers see when they search for your business.
                 </p>
-            </article>
-            <article id="social-media-marketing">
+            </section>
+
+            <section id="social-media-marketing">
                 <img src="./assets/images/social-media-marketing.jpg" class="float-left"
                     alt="a wooden table with several people using their respective electronics" />
                 <h2>Social Media Marketing</h2>
@@ -71,11 +81,9 @@
                     determine which platforms are suited to your brand, using analytics to find the right markets and
                     increase your lead generation.
                 </p>
-            </article>
-        </section>
-        <!-- Sidebar section -->
-        <section class="benefits-section">
-            <!-- The aside elements are presented inside the sidebar -->
+            </section>
+
+            <!-- Sidebar section -->
             <aside>
                 <h3>Lead Generation</h3>
                 <img src="./assets/images/lead-generation.png"
@@ -85,8 +93,6 @@
                     directly
                     to your website.
                 </p>
-            </aside>
-            <aside>
                 <h3>Brand Awareness</h3>
                 <img src="./assets/images/brand-awareness.png"
                     alt="a lamp with a sound effect on the sides that resembles the image of a man in a suit" />
@@ -95,8 +101,6 @@
                     visibility
                     for your business.
                 </p>
-            </aside>
-            <aside>
                 <h3>Cost Management</h3>
                 <img src="./assets/images/cost-management.png" alt="a ratchet and circles with money symbol on it" />
                 <p>
@@ -105,7 +109,9 @@
                     need to advertise your page.
                 </p>
             </aside>
-        </section>
+
+        </article>
+
     </main>
 
     <footer>
