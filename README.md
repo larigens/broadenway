@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created to improve the code base of the BroadenWay website to ensure its long-term sustainability, optimizing it for search engines to increase visibility for the target audience and ensure that it follows accessibility standards. This project helps BroadenWay attract potential customers and improve the user experience.
+This project was created to improve the code base of the BroadenWay's website to ensure its long-term sustainability, optimizing it for search engines to increase visibility for the target audience and ensure that it follows accessibility standards. This project helps BroadenWay attract potential customers and improve the user experience.
 
 ## Installation
 
