@@ -16,7 +16,7 @@ https://larigens.github.io/broadenway/
 
 For a complete experience, use the links located in the navigation bar to guide you to a more descriptive section where it shows you all the services offered by BroadenWay and what each one means.
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance:
 
 ![screenshot of the webpage](assets/images/screenshot.png)
 ![screenshot of the webpage](assets/images/screenshot2.png)
