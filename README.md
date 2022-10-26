@@ -9,7 +9,7 @@ This project was created to improve the code base of BroadenWay's website and ma
 
 ## Installation
 
-You can access Broadenway's website by clicking on the link below:
+You can access Broadenway's website by copying the link below and pasting it into your search bar:
 
 ```
 https://larigens.github.io/broadenway/
@@ -23,11 +23,11 @@ https://larigens.github.io/broadenway/
 
 ## Usage
 
-For a complete experience, use the links located in the navigation bar to guide you to a more descriptive section where it shows you all the services offered by BroadenWay and what each one means.
+The links in the navigation bar lead you to more detailed sections of this site, where you will find information about BroadenWay's services and what each one means.
 
 ## Contributing
 
-Only authorized employees should create Pull Requests, but we welcome suggestions, so please feel free to create an issue so we can continue to improve!
+Only authorized users should create pull requests. But, we welcome feedback to help us make improvements, so please, feel free to create an issue and we will review it!
 
 ## Credits
 
