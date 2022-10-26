@@ -1,5 +1,5 @@
 # BroadenWay
-### Social Marketing Solution Services
+Social Marketing Solution Services
 
 ## Description
 
