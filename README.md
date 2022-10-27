@@ -9,7 +9,7 @@ This project was created to improve the code base of BroadenWay's website and ma
 
 ## Installation
 
-No installation is required; simply click on the link below to access the website.
+No installation is required. Simply click on the link below to access the website.
 
 >[BroadenWay](https://larigens.github.io/broadenway/)</mark>
 
