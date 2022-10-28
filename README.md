@@ -11,7 +11,7 @@ This project was created to improve the code base of BroadenWay's website and ma
 
 No installation is required. Simply click on the link below to access the website.
 
->[BroadenWay](https://larigens.github.io/broadenway/)</mark>
+>[BroadenWay](https://larigens.github.io/broadenway/)
 
 ## Visuals
 
