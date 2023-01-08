@@ -11,12 +11,12 @@
 </p>
 <br>
 
-![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-9cf.svg)
-![Contributors](https://img.shields.io/github/contributors/larigens/broadenway?style=plastic&color=9cf)
-![Forks](https://img.shields.io/github/forks/larigens/broadenway?style=plastic&color=9cf)
-![Stars](https://img.shields.io/github/stars/larigens/broadenway?style=plastic&color=9cf)
-![Licence](https://img.shields.io/github/license/larigens/broadenway?style=plastic&color=9cf)
-![Issues](https://img.shields.io/github/issues/larigens/broadenway?style=plastic&color=9cf)
+![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-blue.svg)
+![Contributors](https://img.shields.io/github/contributors/larigens/broadenway?style=plastic&color=blue)
+![Forks](https://img.shields.io/github/forks/larigens/broadenway?style=plastic&color=blue)
+![Stars](https://img.shields.io/github/stars/larigens/broadenway?style=plastic&color=blue)
+![Licence](https://img.shields.io/github/license/larigens/broadenway?style=plastic&color=blue)
+![Issues](https://img.shields.io/github/issues/larigens/broadenway?style=plastic&color=blue)
 
 ---
 ## Description
