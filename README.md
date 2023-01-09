@@ -15,7 +15,7 @@
 ![Contributors](https://img.shields.io/github/contributors/larigens/broadenway?style=plastic&color=blue)
 ![Forks](https://img.shields.io/github/forks/larigens/broadenway?style=plastic&color=blue)
 ![Stars](https://img.shields.io/github/stars/larigens/broadenway?style=plastic&color=blue)
-![Licence](https://img.shields.io/github/license/larigens/broadenway?style=plastic&color=blue)
+![Licence](https://img.shields.io/static/v1?label=License&message=apache-2.0?style=plastic&color=blue)
 ![Issues](https://img.shields.io/github/issues/larigens/broadenway?style=plastic&color=blue)
 
 ---
@@ -86,4 +86,4 @@ Resources used during the development of this project:
 
 ## License
 
-Please refer to the [LICENSE](https://choosealicense.com/licenses/mit/) in the repo.
+Please refer to the [LICENSE](https://choosealicense.com/licenses/apache-2.0/) in the repo.
