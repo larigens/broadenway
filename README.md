@@ -15,7 +15,7 @@
 ![Contributors](https://img.shields.io/github/contributors/larigens/broadenway?style=plastic&color=blue)
 ![Forks](https://img.shields.io/github/forks/larigens/broadenway?style=plastic&color=blue)
 ![Stars](https://img.shields.io/github/stars/larigens/broadenway?style=plastic&color=blue)
-![Licence](https://img.shields.io/static/v1?label=License&message=apache-2.0?style=plastic&color=blue)
+![Licence](https://img.shields.io/static/v1?label=License&message=Apache-2.0&color=blue)
 ![Issues](https://img.shields.io/github/issues/larigens/broadenway?style=plastic&color=blue)
 
 ---
